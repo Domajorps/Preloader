@@ -8,7 +8,3 @@ RU:
 EN:
 Simple and beautiful preloader.
 Perhaps suitable for sites for games, or a site on the subject of IT.
-
-GE:
-Einfacher und schöner Preloader.
-Kann für Spieleseiten oder eine Website für IT geeignet sein.
